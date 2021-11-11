@@ -9,6 +9,7 @@ export const GlobalStyles = createGlobalStyle`
         --text-title:#363f5f;
         --text-body:#969cb3;
         --shape:#FFF;
+        --green:#33cc95;
     }
     
     *{
